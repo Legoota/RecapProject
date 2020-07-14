@@ -1,0 +1,2 @@
+https://dev.to/_mertsimsek/falcon-api-framework-on-docker-5eid
+https://www.anybox.fr/blog/mon-api-rest-en-python-avec-falcon-2-2/
